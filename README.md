@@ -18,7 +18,7 @@
 
 **Current Role:** Cybersecurity Analyst & GRC/CSIRT Lead
 
-**Certifications:** Security+, ISO 27001 Lead Auditor, ISO 27701 Lead Auditor, CCNA
+**Certifications:** CISA, Security+, ISO 27001 Lead Auditor, CCNA
 
 **Career:** ~7 years from technical support → GRC leadership
 
